@@ -6,7 +6,7 @@
 
 <h2 align="center"> Skills </h2>
 <div align="center"> 
-  <img src="https://gist.githubusercontent.com/johndward01/95c1d09de9e3707cfb4154989962376d/raw/f74007782421219d9e9ab4b6a27de2e172a8b714/csharp-logo.svg" title="C#" alt="C#" width="35" height="35"/> &nbsp;
+ 
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-plain-wordmark.svg" title="CSS" alt="CSS" width="35" height="35"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-plain-wordmark.svg" title="HTML" alt="HTML" width="35" height="35"/> &nbsp;
   <img src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/java/java-original.svg" title="Java" alt="Java" width="35" height="35"/> &nbsp;
