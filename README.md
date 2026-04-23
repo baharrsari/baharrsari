@@ -14,7 +14,7 @@
 <h2 align="center">Skills</h2>
 
 <p align="center">
-  <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=c,css,html,java,js,mysql,proxmox,python,ubuntu&theme=dark&titles=true" alt="Skills" /></a>
+  <a href="#"><img src="https://go-skill-icons.vercel.app/api/icons?i=jupyter,css,html,java,js,c,mysql,proxmox,python,ubuntu&theme=dark&titles=true" alt="Skills" /></a>
 </p>
 
 ---
